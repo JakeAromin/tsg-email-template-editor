@@ -96,7 +96,7 @@ $ cd grapesjs-preset-newsletter
 Install it
 
 ```sh
-$ npm i
+$ npm i grapesjs ckeditor --no-save
 ```
 
 Start the dev server
